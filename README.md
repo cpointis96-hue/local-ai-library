@@ -32,3 +32,7 @@ Tests de configuration, découverte, métadonnées, parseurs et coordination ave
 Snapshot de l’état local incluant quatre fichiers Swift modifiés, source originale à `060e26ada568b5e735d92e5f257f9c3da169cb6c`, intacte. Sources/Tests/Package.swift conservés ; bundles .app,modèles,données,réglages et historique des binaires exclus. Aucune licence générale de redistribution inventée.
 
 Voir [VERIFICATION.md](VERIFICATION.md).
+
+## Dépôt et téléchargement
+
+[Voir le dépôt](https://github.com/cpointis96-hue/local-ai-library) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/local-ai-library/archive/HEAD.zip). Le ZIP contient les sources et tests, sans application compilée.
