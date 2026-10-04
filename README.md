@@ -1,8 +1,16 @@
 # Local AI Library
 
-Application macOS SwiftUI pour inventorier des modèles IA locaux et repérer les configurations Codex/Claude. Le projet explore les caches Hugging Face/Ollama, GGUF/Safetensors/BIN, les métadonnées, la détection de runtimes et les dossiers de scan personnalisés.
+## En bref
 
-Sources et tests récupérés, reconstruction bloquée par la licence Xcode non acceptée. Aucun ancien bundle redistribué comme build nouvellement vérifié, aucune capture fabriquée ou application signée fournie.
+**Ce que c’est :** une application macOS SwiftUI pour inventorier les modèles IA présents sur un ordinateur.
+
+**À quoi elle sert :** repérer les fichiers de modèles, leurs métadonnées, les runtimes locaux et les configurations Codex ou Claude dans des dossiers choisis.
+
+**Ce qui a été réalisé :** services de scan, parseurs de formats, enrichissement des tailles, recherche des programmes disponibles et conservation des sélections.
+
+**Technologies :** Swift, SwiftUI, UserDefaults, formats GGUF/Safetensors/BIN, caches Hugging Face et Ollama.
+
+Les sources et tests sont conservés. La reconstruction macOS reste bloquée par la licence Xcode non acceptée ; aucun ancien bundle n’est présenté comme un nouveau build.
 
 ## Compiler et lancer
 
